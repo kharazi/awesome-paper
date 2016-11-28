@@ -23,6 +23,7 @@ A personal curated list of resources for natrual language processing.
 * Chien JT, Ku YC. **Bayesian Recurrent Neural Network for Language Modeling.** IEEE transactions on neural networks and learning systems. 2016 Feb;27(2):361-74.
 * Tomas M, Geoffrey Z. **Context Dependent Recurrent Neural Network Language Model.** Microsoft Research Technical Report MSR-TR-2012-92. 2012 Jul. [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/07/rnn_ctxt_TR.sav_.pdf)
 * Sundermeyer M, Schlüter R, Ney H. **LSTM Neural Networks for Language Modeling.** InInterspeech 2012 Sep (pp. 194-197). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
+* Bengio Y, Ducharme R, Vincent P, Jauvin C. **A neural probabilistic language model.** journal of machine learning research. 2003;3(Feb):1137-55.[PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
 ## Sentiment Analysis
 * Socher R, Perelygin A, Wu JY, Chuang J, Manning CD, Ng AY, Potts C. **Recursive deep models for semantic compositionality over a sentiment treebank.** InProceedings of the conference on empirical methods in natural language processing (EMNLP) 2013 Oct 18 (Vol. 1631, p. 1642). ([[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)])
@@ -33,3 +34,10 @@ A personal curated list of resources for natrual language processing.
 * Balahur A, Steinberger R, Kabadjov M, Zavarella V, Van Der Goot E, Halkia M, Pouliquen B, Belyaeva J. **Sentiment analysis in the news.** arXiv preprint arXiv:1309.6202. 2013 Sep 24. [PDF](https://arxiv.org/pdf/1309.6202v1.pdf)
 * Gonçalves P, Araújo M, Benevenuto F, Cha M. **Comparing and combining sentiment analysis methods.** InProceedings of the first ACM conference on Online social networks 2013 Oct 7 (pp. 27-38). ACM.z [PDF](https://arxiv.org/pdf/1406.0032.pdf)
 * Liu B, Zhang L. **A survey of opinion mining and sentiment analysis.** InMining text data 2012 (pp. 415-463). Springer US. [PDF](https://pdfs.semanticscholar.org/adff/fadbac235d89bed96aeecb6911c9b2cf6267.pdf)
+* Zhou S, Chen Q, Wang X. **Active deep learning method for semi-supervised sentiment classification.** Neurocomputing. 2013 Nov 23;120:536-46.
+* Tang D, Wei F, Qin B, Liu T, Zhou M. **Coooolll: A deep learning system for Twitter sentiment classification.** InProceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014) 2014 Aug 23 (pp. 208-212).[PDF](http://www.aclweb.org/anthology/S14-2#page=228)
+* Zharmagambetov AS, Pak AA. **Sentiment analysis of a document using deep learning approach and decision trees.** In2015 Twelve International Conference on Electronics Computer and Computation (ICECCO) 2015 Sep 27 (pp. 1-4). IEEE.
+
+* Zhang X, Zhao J, LeCun Y. **Character-level convolutional networks for text classification.** InAdvances in Neural Information Processing Systems 2015 (pp. 649-657).[PDF](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
+* Joulin A, Grave E, Bojanowski P, Mikolov T. **Bag of Tricks for Efficient Text Classification.** arXiv preprint arXiv:1607.01759. 2016 Jul 6. [PDF](https://arxiv.org/pdf/1607.01759v3.pdf)
+
