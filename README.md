@@ -43,6 +43,8 @@ A personal curated list of resources for natrual language processing.
 * Zhang X, Zhao J, LeCun Y. **Character-level convolutional networks for text classification.** InAdvances in Neural Information Processing Systems 2015 (pp. 649-657).[PDF](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
 * Joulin A, Grave E, Bojanowski P, Mikolov T. **Bag of Tricks for Efficient Text Classification.** arXiv preprint arXiv:1607.01759. 2016 Jul 6. [PDF](https://arxiv.org/pdf/1607.01759v3.pdf)
 * Kalchbrenner N, Grefenstette E, Blunsom P. **A convolutional neural network for modelling sentences.** arXiv preprint arXiv:1404.2188. 2014 Apr 8.[PDF](https://arxiv.org/pdf/1404.2188.pdf?utm_medium=App.net&utm_source=PourOver)
+* A brief review on sentiment analysis. [LINK](http://ieeexplore.ieee.org/document/7755213/)
+
 
 
 # Dataset 
