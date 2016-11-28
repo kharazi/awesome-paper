@@ -1,6 +1,6 @@
-Awesome Deep Natural Language Processing
-----------------------------------------
-
+Awesome Deep NLP
+----------------
+A curated list of deep learning resources for natrual language processing.
 
 
 # Papers
@@ -14,3 +14,5 @@ Awesome Deep Natural Language Processing
 
 ## Sentiment Analysis
 * Socher R, Perelygin A, Wu JY, Chuang J, Manning CD, Ng AY, Potts C. **Recursive deep models for semantic compositionality over a sentiment treebank.** InProceedings of the conference on empirical methods in natural language processing (EMNLP) 2013 Oct 18 (Vol. 1631, p. 1642). ([[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)])
+* dos Santos CN, Gatti M. **Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts.** InCOLING 2014 (pp. 69-78). [PDF](https://pdfs.semanticscholar.org/b0ac/a3e7877c3c20958b0fae5cbf2dd602104859.pdf)
+* 
