@@ -5,7 +5,7 @@ A personal curated list of resources for natrual language processing.
 
 # Papers
 
-## Vectorization
+## Representation
 
 * Kiros R, Zhu Y, Salakhutdinov RR, Zemel R, Urtasun R, Torralba A, Fidler S. **Skip-thought vectors.** InAdvances in neural information processing systems 2015 (pp. 3294-3302).[PDF](http://papers.nips.cc/paper/5950-skip-thought-vectors.pdf)
 * Pennington J, Socher R, Manning CD. **Glove: Global Vectors for Word Representation.** InEMNLP 2014 Oct 25 (Vol. 14, pp. 1532-43). [PDF](http://www-nlp.stanford.edu/pubs/glove.pdf)
