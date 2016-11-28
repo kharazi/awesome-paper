@@ -35,12 +35,14 @@ A personal curated list of resources for natrual language processing.
 * Gonçalves P, Araújo M, Benevenuto F, Cha M. **Comparing and combining sentiment analysis methods.** InProceedings of the first ACM conference on Online social networks 2013 Oct 7 (pp. 27-38). ACM.z [PDF](https://arxiv.org/pdf/1406.0032.pdf)
 * Liu B, Zhang L. **A survey of opinion mining and sentiment analysis.** InMining text data 2012 (pp. 415-463). Springer US. [PDF](https://pdfs.semanticscholar.org/adff/fadbac235d89bed96aeecb6911c9b2cf6267.pdf)
 * Zhou S, Chen Q, Wang X. **Active deep learning method for semi-supervised sentiment classification.** Neurocomputing. 2013 Nov 23;120:536-46.
+* Tang D, Qin B, Liu T. **Document modeling with gated recurrent neural network for sentiment classification.** InProceedings of the 2015 Conference on Empirical Methods in Natural Language Processing 2015 (pp. 1422-1432).[PDF](http://ir.hit.edu.cn/~dytang/paper/emnlp2015/emnlp2015.pdf)
 * Tang D, Wei F, Qin B, Liu T, Zhou M. **Coooolll: A deep learning system for Twitter sentiment classification.** InProceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014) 2014 Aug 23 (pp. 208-212).[PDF](http://www.aclweb.org/anthology/S14-2#page=228)
 * Zharmagambetov AS, Pak AA. **Sentiment analysis of a document using deep learning approach and decision trees.** In2015 Twelve International Conference on Electronics Computer and Computation (ICECCO) 2015 Sep 27 (pp. 1-4). IEEE.
 * Zhang X, LeCun Y. **Text understanding from scratch.** arXiv preprint arXiv:1502.01710. 2015 Feb 5. [PDF](https://arxiv.org/pdf/1502.01710.pdf)
-
-This article demontrates that we can apply deep learning to text understanding from characterlevel inputs all the way up to abstract text concepts, using temporal convolutional networks(LeCun et al., 1998) (ConvNets). We apply ConvNets to various large-scale datasets, including ontology classification, sentiment analysis, and text categorization. We show that temporal ConvNets can achieve astonishing performance without the knowledge of words, phrases, sentences and any other syntactic or semantic structures with regards to a human language. Evidence shows that our models can work for both English and Chinese.
-
+* Wang X, Liu Y, Sun C, Wang B, Wang X. **Predicting polarities of tweets by composing word embeddings with long short-term memory.** InProceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing 2015 (Vol. 1, pp. 1343-1353).[PDF](http://www.aclweb.org/anthology/P15-1130)
 * Zhang X, Zhao J, LeCun Y. **Character-level convolutional networks for text classification.** InAdvances in Neural Information Processing Systems 2015 (pp. 649-657).[PDF](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
 * Joulin A, Grave E, Bojanowski P, Mikolov T. **Bag of Tricks for Efficient Text Classification.** arXiv preprint arXiv:1607.01759. 2016 Jul 6. [PDF](https://arxiv.org/pdf/1607.01759v3.pdf)
+* Kalchbrenner N, Grefenstette E, Blunsom P. **A convolutional neural network for modelling sentences.** arXiv preprint arXiv:1404.2188. 2014 Apr 8.[PDF](https://arxiv.org/pdf/1404.2188.pdf?utm_medium=App.net&utm_source=PourOver)
 
+
+# Dataset 
