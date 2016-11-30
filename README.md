@@ -50,6 +50,8 @@ A personal curated list of resources for natrual language processing.
 # Dataset 
 
 ## Sentiment
+* Stanford Deep Moving [LINK](http://nlp.stanford.edu/sentiment/)
+* SAR14 [LINK](https://sites.google.com/site/nquocdai/resources)
 * Twitter Sentiment Corpus [LINK](http://www.sananalytics.com/lab/twitter-sentiment/). It consists of 5513 hand-classified tweets. Each tweet was classified with respect to one of four different topics.
 * UMICH SI650 - Sentiment Classification [LINK]. Training data: 7086 lines. Test data: 33052 lines, each contains one sentence.
 * Sentiment Labelled Sentences Data Set [LINK](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences) 3000 items. This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
