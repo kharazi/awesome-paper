@@ -48,3 +48,9 @@ A personal curated list of resources for natrual language processing.
 
 
 # Dataset 
+
+## Sentiment
+* Twitter Sentiment Corpus [LINK](http://www.sananalytics.com/lab/twitter-sentiment/). It consists of 5513 hand-classified tweets. Each tweet was classified with respect to one of four different topics.
+* UMICH SI650 - Sentiment Classification [LINK]. Training data: 7086 lines. Test data: 33052 lines, each contains one sentence.
+* Sentiment Labelled Sentences Data Set [LINK](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences) 3000 items. This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
+* Twitter Data set for Arabic Sentiment Analysis Data Set [LINK](https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis). - By using a tweet crawler, we collect 2000 labelled tweets (1000 positive tweets and 1000 negative ones) on various topics such as: politics and arts. These tweets include opinions written in both 
