@@ -31,6 +31,7 @@ A personal curated list of resources for natrual language processing.
 * Severyn A, Moschitti A. **Twitter sentiment analysis with deep convolutional neural networks.** InProceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval 2015 Aug 9 (pp. 959-962). ACM.[PDF](https://pdfs.semanticscholar.org/9320/a229b450bee8384f218681634e039acd9c2f.pdf)
 * Poria S, Cambria E, Gelbukh A. **Deep convolutional neural network textual features and multiple kernel learning for utterance-level multimodal sentiment analysis.** InProceedings of EMNLP 2015 (pp. 2539-2544). [PDF](http://www.aclweb.org/anthology/D/D15/D15-1303.pdf)
 * Li C, Xu B, Wu G, He S, Tian G, Hao H. **Recursive Deep Learning for Sentiment Analysis over Social Data.** InProceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)-Volume 02 2014 Aug 11 (pp. 180-185). IEEE Computer Society.
+* Pham SB. Sentiment Classification on Polarity Reviews: **An Empirical Study Using Rating-based Features.** ACL 2014. 2014 Jun 27:128. [PDF](http://www.aclweb.org/website/old_anthology/W/W14/W14-26.pdf#page=140)
 * Balahur A, Steinberger R, Kabadjov M, Zavarella V, Van Der Goot E, Halkia M, Pouliquen B, Belyaeva J. **Sentiment analysis in the news.** arXiv preprint arXiv:1309.6202. 2013 Sep 24. [PDF](https://arxiv.org/pdf/1309.6202v1.pdf)
 * Gonçalves P, Araújo M, Benevenuto F, Cha M. **Comparing and combining sentiment analysis methods.** InProceedings of the first ACM conference on Online social networks 2013 Oct 7 (pp. 27-38). ACM.z [PDF](https://arxiv.org/pdf/1406.0032.pdf)
 * Liu B, Zhang L. **A survey of opinion mining and sentiment analysis.** InMining text data 2012 (pp. 415-463). Springer US. [PDF](https://pdfs.semanticscholar.org/adff/fadbac235d89bed96aeecb6911c9b2cf6267.pdf)
@@ -50,9 +51,12 @@ A personal curated list of resources for natrual language processing.
 # Dataset 
 
 ## Sentiment
+* https://www.w3.org/community/sentiment/wiki/Datasets
 * Stanford Deep Moving [LINK](http://nlp.stanford.edu/sentiment/)
-* SAR14 [LINK](https://sites.google.com/site/nquocdai/resources)
+* SAR14 [LINK](https://sites.google.com/site/nquocdai/resources). An independent score-associated dataset of 233600 movie reviews.
 * Twitter Sentiment Corpus [LINK](http://www.sananalytics.com/lab/twitter-sentiment/). It consists of 5513 hand-classified tweets. Each tweet was classified with respect to one of four different topics.
 * UMICH SI650 - Sentiment Classification [LINK]. Training data: 7086 lines. Test data: 33052 lines, each contains one sentence.
 * Sentiment Labelled Sentences Data Set [LINK](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences) 3000 items. This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
 * Twitter Data set for Arabic Sentiment Analysis Data Set [LINK](https://archive.ics.uci.edu/ml/datasets/Twitter+Data+set+for+Arabic+Sentiment+Analysis). - By using a tweet crawler, we collect 2000 labelled tweets (1000 positive tweets and 1000 negative ones) on various topics such as: politics and arts. These tweets include opinions written in both 
+
+* Word Association Lexicons: Capturing word-emotion, word-sentiment, and word-colour associations [LINK](http://saifmohammad.com/WebPages/lexicons.html)
