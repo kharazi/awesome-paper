@@ -28,6 +28,11 @@ A personal curated list of resources for natrual language processing.
 ## Sentiment Analysis
 * Socher R, Perelygin A, Wu JY, Chuang J, Manning CD, Ng AY, Potts C. **Recursive deep models for semantic compositionality over a sentiment treebank.** InProceedings of the conference on empirical methods in natural language processing (EMNLP) 2013 Oct 18 (Vol. 1631, p. 1642). ([[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)])
 * dos Santos CN, Gatti M. **Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts.** InCOLING 2014 (pp. 69-78). [PDF](https://pdfs.semanticscholar.org/b0ac/a3e7877c3c20958b0fae5cbf2dd602104859.pdf)
+* Tang D, Qin B, Liu T. Aspect Level Sentiment Classification with Deep Memory Network. arXiv preprint arXiv:1605.08900. 2016 May 28. [PDF](http://arxiv.org/pdf/1605.08900)
+* Li X, Pang J, Mo B, Rao Y, Wang FL. **Deep Neural Network for Short-Text Sentiment Classification.** InInternational Conference on Database Systems for Advanced Applications 2016 Apr 16 (pp. 168-175). Springer International Publishing.
+* Severyn A, Moschitti A. **UNITN: Training deep convolutional neural network for Twitter sentiment classification.** InProceedings of the 9th International Workshop on Semantic Evaluation (SemEval 2015), Association for Computational Linguistics, Denver, Colorado 2015 Jun 4 (pp. 464-469). [PDF](http://www.aclweb.org/anthology/S/S15/S15-2.pdf#page=506)
+* Tang D, Qin B, Liu T. **Document modeling with gated recurrent neural network for sentiment classification.** InProceedings of the 2015 Conference on Empirical Methods in Natural Language Processing 2015 (pp. 1422-1432).[PDF](http://ir.hit.edu.cn/~dytang/paper/emnlp2015/emnlp2015.pdf)
+* Tang D, Qin B, Liu T. **Learning semantic representations of users and products for document level sentiment classification.** InProc. ACL 2015.[PDF](http://www.aclweb.org/website/old_anthology/P/P15/P15-1098.pdf)
 * Severyn A, Moschitti A. **Twitter sentiment analysis with deep convolutional neural networks.** InProceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval 2015 Aug 9 (pp. 959-962). ACM.[PDF](https://pdfs.semanticscholar.org/9320/a229b450bee8384f218681634e039acd9c2f.pdf)
 * Poria S, Cambria E, Gelbukh A. **Deep convolutional neural network textual features and multiple kernel learning for utterance-level multimodal sentiment analysis.** InProceedings of EMNLP 2015 (pp. 2539-2544). [PDF](http://www.aclweb.org/anthology/D/D15/D15-1303.pdf)
 * Li C, Xu B, Wu G, He S, Tian G, Hao H. **Recursive Deep Learning for Sentiment Analysis over Social Data.** InProceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)-Volume 02 2014 Aug 11 (pp. 180-185). IEEE Computer Society.
@@ -36,7 +41,6 @@ A personal curated list of resources for natrual language processing.
 * Gonçalves P, Araújo M, Benevenuto F, Cha M. **Comparing and combining sentiment analysis methods.** InProceedings of the first ACM conference on Online social networks 2013 Oct 7 (pp. 27-38). ACM.z [PDF](https://arxiv.org/pdf/1406.0032.pdf)
 * Liu B, Zhang L. **A survey of opinion mining and sentiment analysis.** InMining text data 2012 (pp. 415-463). Springer US. [PDF](https://pdfs.semanticscholar.org/adff/fadbac235d89bed96aeecb6911c9b2cf6267.pdf)
 * Zhou S, Chen Q, Wang X. **Active deep learning method for semi-supervised sentiment classification.** Neurocomputing. 2013 Nov 23;120:536-46.
-* Tang D, Qin B, Liu T. **Document modeling with gated recurrent neural network for sentiment classification.** InProceedings of the 2015 Conference on Empirical Methods in Natural Language Processing 2015 (pp. 1422-1432).[PDF](http://ir.hit.edu.cn/~dytang/paper/emnlp2015/emnlp2015.pdf)
 * Tang D, Wei F, Qin B, Liu T, Zhou M. **Coooolll: A deep learning system for Twitter sentiment classification.** InProceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014) 2014 Aug 23 (pp. 208-212).[PDF](http://www.aclweb.org/anthology/S14-2#page=228)
 * Zharmagambetov AS, Pak AA. **Sentiment analysis of a document using deep learning approach and decision trees.** In2015 Twelve International Conference on Electronics Computer and Computation (ICECCO) 2015 Sep 27 (pp. 1-4). IEEE.
 * Zhang X, LeCun Y. **Text understanding from scratch.** arXiv preprint arXiv:1502.01710. 2015 Feb 5. [PDF](https://arxiv.org/pdf/1502.01710.pdf)
@@ -54,6 +58,7 @@ A personal curated list of resources for natrual language processing.
 * https://www.w3.org/community/sentiment/wiki/Datasets
 * Stanford Deep Moving [LINK](http://nlp.stanford.edu/sentiment/)
 * SAR14 [LINK](https://sites.google.com/site/nquocdai/resources). An independent score-associated dataset of 233600 movie reviews.
+* http://help.sentiment140.com/for-students/
 * Twitter Sentiment Corpus [LINK](http://www.sananalytics.com/lab/twitter-sentiment/). It consists of 5513 hand-classified tweets. Each tweet was classified with respect to one of four different topics.
 * UMICH SI650 - Sentiment Classification [LINK]. Training data: 7086 lines. Test data: 33052 lines, each contains one sentence.
 * Sentiment Labelled Sentences Data Set [LINK](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences) 3000 items. This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
