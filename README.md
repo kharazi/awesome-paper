@@ -2,7 +2,7 @@ Awesome Resource
 ----------------
 A personal curated list of resources for natrual language processing.
 
-
+https://pdfs.semanticscholar.org/0c6f/38b702f87758d49ec7a9824d05bd32b53979.pdf
 # Papers
 
 ## Representation
